@@ -1,16 +1,12 @@
-# smart_u
+## Work Out Timer App
+This is a Smart UI app
 
-A new Flutter project.
+## FEATURE OF THE APP
+Should be able to control smart systems after configured with logics for smart devices
 
-## Getting Started
+## PACKAGES USED
+Check the pubsec.yaml file
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/92346444/202618599-0f0f3c6e-697e-4097-bc86-80d5f2902e79.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
