@@ -1,4 +1,4 @@
-## Work Out Timer App
+## Smart UI App
 This is a Smart UI app
 
 ## FEATURE OF THE APP
