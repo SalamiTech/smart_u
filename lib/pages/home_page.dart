@@ -12,7 +12,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   // padding constants
   final double horizontalPadding = 40;
-  final double verticalPadding = 25;
+  final double verticalPadding = 25.1;
 
   // list of smart devices
   List mySmartDevices = [
